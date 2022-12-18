@@ -1,7 +1,7 @@
 # colyseus_monitor_plus
 
- A beautiful cross platform dashboard app build for monitoring colyseus servers ( WIP ).
- [Colyseus](https://github.com/colyseus/colyseus)
+ A beautiful cross platform dashboard app build for monitoring [Colyseus](https://github.com/colyseus/colyseus) servers ( WIP ).
+ 
  
  ![alt text](./screenshots/dark1.png)
  ![alt text](./screenshots/dark2.png)
